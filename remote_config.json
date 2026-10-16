@@ -1,0 +1,66 @@
+{
+  "config_version": 1,
+  "last_updated": "1405-07-01",
+  "monetization": {
+    "ads_enabled": false,
+    "show_settings_banner": false,
+    "sponsor_slide_interval": 6,
+    "ad_mode": "native_sponsor",
+    "tapsell_zone_id": "",
+    "vip_unlock_codes": [
+      "NEGAR-VIP",
+      "NEGAR-CAFE-2025"
+    ],
+    "vip_purchase_url": "https://t.me/NegarAmbient",
+    "vip_price_text": "نسخه ویژه"
+  },
+  "sponsors": [
+    {
+      "id": "sponsor_01",
+      "active": false,
+      "brand_name": "نگار امبینت",
+      "subtitle": "فضایی آرام برای شعر و تصویر",
+      "poem_text": "چهره‌ی دشت و آسمان با هم می‌نویسند",
+      "poet": "سهراب سپهری",
+      "image_url": "https://raw.githubusercontent.com/neystani/negar-config/main/images/cafe-scene.jpg",
+      "logo_url": "https://raw.githubusercontent.com/neystani/negar-config/main/images/logo.png",
+      "click_url": "https://t.me/NegarAmbient"
+    }
+  ],
+  "remote_images": [
+    {
+      "id": "remote_img_01",
+      "mood": "mountain",
+      "title": "کوه‌های آرام",
+      "photographer": "Negar Studio",
+      "image_url": "https://raw.githubusercontent.com/neystani/negar-config/main/images/mountain.jpg",
+      "has_embedded_text": false
+    }
+  ],
+  "remote_poems": [
+    {
+      "id": "remote_poem_01",
+      "verse_1": "پاییز دل، به آرامی روی شیشه‌ی آینه می‌نشیند",
+      "verse_2": "و دانه‌ی سکوت در خرمن شب می‌تپد",
+      "poet": "سهراب سپهری",
+      "mood": "calm"
+    }
+  ],
+  "allow_custom_photos_for_all": false,
+  "custom_photo_access_codes": [
+    "NEGAR-GALLERY-VIP",
+    "USER-SPECIAL-01"
+  ],
+  "community_gate": {
+    "join_mode": "soft_unlock",
+    "telegram_handle": "NegarAmbient",
+    "channel_url": "https://t.me/NegarAmbient",
+    "fallback_messenger_url": "https://t.me/NegarAmbient",
+    "cta_title": "🎁 دریافت کد فعال‌سازی رایگان از کانال تلگرام",
+    "cta_description": "برای دریافت کد بازگشایی عکس‌های گالری و نسخه ویژه، وارد کانال تلگرام ما شوید و کد پین‌شده را بردارید.",
+    "channel_unlock_codes": [
+      "NEGAR-CHANNEL-01",
+      "VIP-START"
+    ]
+  }
+}
